@@ -1,5 +1,5 @@
 int hasBug(int a, int b) {
-	if (a < b) {
+	if (a > b) {
 		a = 2*a;
 	}
 	else {
@@ -19,6 +19,6 @@ int hasBug2(int a, int b) {
 	else {
 		b = 3*b;
 	}
-	a++;
+	
 	return a + b;
 }
