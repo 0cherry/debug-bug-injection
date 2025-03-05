@@ -5,14 +5,10 @@
     "linkFlag": "",
     "compileFlag": "",
     "toolchainName": "${TOOLCHAIN_NAME}",
-    "sourceTopDir": "D:\\git_repo\\GLaDOS\\demo\\CT-APR-Demo-SQLite-mini\\src\\",
+    "sourceTopDir": "C:\\Users\\SURESOFT\\AppData\\Roaming\\CodeScroll\\1.1\\imported\\20250305_5\\sources\\_D",
     "src": [
       {
-        "path": "D:\\git_repo\\GLaDOS\\demo\\CT-APR-Demo-SQLite-mini\\src\\injectBug.c",
-        "compileFlag": ""
-      },
-      {
-        "path": "D:\\git_repo\\GLaDOS\\demo\\CT-APR-Demo-SQLite-mini\\src\\sqlite3_partial.c",
+        "path": "C:\\Users\\SURESOFT\\AppData\\Roaming\\CodeScroll\\1.1\\imported\\20250305_5\\sources\\_D\\injectBug.c",
         "compileFlag": ""
       }
     ]
