@@ -19,6 +19,5 @@ int hasBug2(int a, int b) {
 	else {
 		b = 3*b;
 	}
-	a++;
 	return a + b;
 }
