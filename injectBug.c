@@ -1,5 +1,5 @@
 int hasBug(int a, int b) {
-	if (a < b) {
+	if (a > b) {
 		a = 2*a;
 	}
 	else {
